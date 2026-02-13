@@ -27,7 +27,7 @@
     "ramda": "^0.26.1",
     "react": "15.4.2",
     "react-player": "^1.15.3",
-    "react-scripts": "^3.4.1"
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.5.4",
@@ -43,7 +43,7 @@
     "eslint-config-prettier": "^6.0.0",
     "eslint-plugin-import": "^2.18.0",
     "eslint-plugin-react": "^7.14.2",
-    "npm": "^6.1.0",
+    "npm": "^11.10.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-docgen": "^4.1.1",
